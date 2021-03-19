@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\bin\Debug\DoanLeMyLinh_595107049.exe.config
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\bin\Debug\DoanLeMyLinh_595107049.exe
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\bin\Debug\DoanLeMyLinh_595107049.pdb
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.Form1.resources
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.Properties.Resources.resources
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.exe
+C:\Users\ACER\source\repos\WinForm\DoanLeMyLinh_595107049\DoanLeMyLinh_595107049\obj\Debug\DoanLeMyLinh_595107049.pdb
